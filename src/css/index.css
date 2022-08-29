@@ -1,0 +1,6 @@
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: 'toutiao';
+  /* Project id 3616345 */
+  src: url('//at.alicdn.com/t/c/font_3616345_7l24ac93qq3.woff2?t=1661754678392') format('woff2'), url('//at.alicdn.com/t/c/font_3616345_7l24ac93qq3.woff?t=1661754678392') format('woff'), url('//at.alicdn.com/t/c/font_3616345_7l24ac93qq3.ttf?t=1661754678392') format('truetype');
+}
